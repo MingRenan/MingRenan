@@ -14,4 +14,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
+### Tabela 
+
+| Name     | Character |
+| Renan      | [![Meu git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingRenan/MingRenan/blob/main/README.md)       |
+| Backtick | `         |
+| Pipe     | \|        |
+
 
