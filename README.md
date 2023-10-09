@@ -17,12 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-### Tabela 
 
-| Name     | Character |
-| Renan|   |           |
-| Backtick | `         |
-| Pipe     | \|        |
 
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
